@@ -40,6 +40,8 @@ My pipeline consists of the following steps:
 
 10. Use the provided function ``weighted_img`` to overlay the original image with the two lines.
 
+PS. The actual function to draw lines has not been modified.
+
 
 ### 2. Identify potential shortcomings with your current pipeline
 
